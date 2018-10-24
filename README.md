@@ -26,13 +26,13 @@ Orientation
   - Paper : https://arxiv.org/abs/1404.2188
   - Material : [A Convolutional Neural Network for Modelling Sentences_윤훈상.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week03/A%20Convolutional%20Neural%20Network%20for%20Modelling%20Sentences_%EC%9C%A4%ED%9B%88%EC%83%81.pdf)
 ### Week04
-+ Sequence to Sequence Learning with Neural Networks
-	- Presenter : 권성은
-	- Paper : https://arxiv.org/abs/1409.3215
-	- Material :  
 + Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation
 	- Presenter : 염혜원
 	- Paper : https://arxiv.org/abs/1406.1078
+	- Material :  
++ Sequence to Sequence Learning with Neural Networks
+	- Presenter : 권성은
+	- Paper : https://arxiv.org/abs/1409.3215
 	- Material :  
 ### Week05
 + A Neural Conversational Model
