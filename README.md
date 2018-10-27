@@ -29,11 +29,11 @@ Orientation
 + Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation
 	- Presenter : 염혜원
 	- Paper : https://arxiv.org/abs/1406.1078
-	- Material :  
+	- Material : [Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation_염혜정.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week04/Learning%20Phrase%20Representation%20using%20RNN%20Encoder-Decoder%20for%20Statistical%20Machine%20Translation_%EC%97%BC%ED%98%9C%EC%A0%95.pdf) 
 + Sequence to Sequence Learning with Neural Networks
 	- Presenter : 권성은
 	- Paper : https://arxiv.org/abs/1409.3215
-	- Material :  
+	- Material :  [Sequence to Sequence Learning with Neural Networks_권성은.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week04/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks_%EA%B6%8C%EC%84%B1%EC%9D%80.pdf)
 ### Week05
 + A Neural Conversational Model
 	- Presenter : 원종국
