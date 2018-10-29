@@ -53,14 +53,14 @@ Orientation
 	- Paper : https://arxiv.org/abs/1508.04025
 	- Material
 ### Week07
-+ A Decomposable Attention Model for Natural Language Inference
-	- Presenter : 정미연
-	- Paper : https://arxiv.org/abs/1606.01933
-	- Material : 
++ A Structured Self-attentive Sentence Embedding
+  - Presenter : 정미연
+  - Paper : https://arxiv.org/abs/1703.03130
+  - Material : 
 + Attention is All You Need
-	- Presenter : 이승재
-	- Paper : https://arxiv.org/abs/1706.03762
-	- Material :  
+  - Presenter : 이승재
+  - Paper : https://arxiv.org/abs/1706.03762
+  - Material :  
 ### Week08
 + Show and Tell: A Neural Image Caption Generator
 	- Presenter : 김경환
