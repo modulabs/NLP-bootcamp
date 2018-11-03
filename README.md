@@ -38,11 +38,11 @@ Orientation
 + A Neural Conversational Model
 	- Presenter : 원종국
 	- Paper : https://arxiv.org/abs/1506.05869
-	- Material :
+	- Material : [A Neural Conversational Model_원종국.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week05/A%20Neural%20Conversational%20Model_%EC%9B%90%EC%A2%85%EA%B5%AD.pdf)
 + Convolutional Sequence to Sequence Learning
 	- Presenter : 모경현
 	- Paper : https://arxiv.org/abs/1705.03122
-	- Material :   
+	- Material : [Convolutional Sequence to Sequence Learning_모경현.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week05/Convolutional%20Sequence%20to%20Sequence%20Learning_%EB%AA%A8%EA%B2%BD%ED%98%84.pdf) 
 ### Week06
 + Neural Machine Translation by Jointly Learning to Align and Translate
 	- Presenter : 박희경
