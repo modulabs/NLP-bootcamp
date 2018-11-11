@@ -47,11 +47,11 @@ Orientation
 + Neural Machine Translation by Jointly Learning to Align and Translate
 	- Presenter : 박희경
 	- Paper : https://arxiv.org/abs/1409.0473
-	- Material : 
+	- Material : [Neural Machine Translation by Jointly Learning to Align and Translate_박희경.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week06/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate_%EB%B0%95%ED%9D%AC%EA%B2%BD.pdf)
 + Effective Approaches to Attention-based Neural Machine Translation
 	- Presenter : 김보섭
 	- Paper : https://arxiv.org/abs/1508.04025
-	- Material
+	- Material : [Effective Approaches to Attention-based Neural Machine Translation_김보섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week06/Effective%20Approaches%20to%20Attention-based%20Neural%20Machine%20Translation_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf)
 ### Week07
 + A Structured Self-attentive Sentence Embedding
   - Presenter : 정미연
