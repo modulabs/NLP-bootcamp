@@ -1,0 +1,5 @@
+# .DS_Store in mac
+.DS_Store
+
+# ipython notebook checkpoints
+.ipynb_checkpoints
