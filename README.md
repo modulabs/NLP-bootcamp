@@ -56,11 +56,11 @@ Orientation
 + A Structured Self-attentive Sentence Embedding
   - Presenter : 정미연
   - Paper : https://arxiv.org/abs/1703.03130
-  - Material : 
+  - Material : [A Structured Self-attentive Sentence Embedding_정미연.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week07/A%20Structured%20Self-attentive%20Sentence%20Embedding_%EC%A0%95%EB%AF%B8%EC%97%B0.pdf)
 + Attention is All You Need
   - Presenter : 이승재
   - Paper : https://arxiv.org/abs/1706.03762
-  - Material :  
+  - Material : [Attention is All You Need_이승재.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week07/Attention%20is%20All%20You%20Need_%EC%9D%B4%EC%8A%B9%EC%9E%AC.pdf) 
 ### Week08
 + Show and Tell: A Neural Image Caption Generator
 	- Presenter : 김경환
