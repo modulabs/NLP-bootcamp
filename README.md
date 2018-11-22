@@ -72,7 +72,7 @@ Orientation
 	- Material : 
 ### Week09
 + Memory Networks
-	- Presenter : 김충현
+	- Presenter : 이명재
 	- Paper : https://arxiv.org/abs/1410.3916
 	- Material : 
 + End-To-End Memory Networks
