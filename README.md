@@ -5,9 +5,9 @@
 + faciliator : 김보섭
 
 ## Schedule
-### Week01
+### Week01 (18/10/06)
 Orientation
-### Week02
+### Week02 (18/10/13)
 + Convolutional Neural Networks for Sentence Classification
   - Presenter : 최우정 
   - Paper : https://arxiv.org/abs/1408.5882
@@ -16,7 +16,7 @@ Orientation
   - Presenter : 박정배
   - Paper : https://arxiv.org/abs/1509.01626
   - Material :  [Character-level convolutional networks for text classification_박정배.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week02/Character-level%20convolutional%20networks%20for%20text%20classification_%EB%B0%95%EC%A0%95%EB%B0%B0.pdf)
-### Week03
+### Week03 (18/10/20)
 + Character-Aware Neural Language Models
   - Presenter : 이일구
   - Paper : https://arxiv.org/abs/1508.06615
@@ -25,7 +25,7 @@ Orientation
   - Presenter : 윤훈상
   - Paper : https://arxiv.org/abs/1404.2188
   - Material : [A Convolutional Neural Network for Modelling Sentences_윤훈상.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week03/A%20Convolutional%20Neural%20Network%20for%20Modelling%20Sentences_%EC%9C%A4%ED%9B%88%EC%83%81.pdf)
-### Week04
+### Week04 (18/10/27)
 + Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation
 	- Presenter : 염혜원
 	- Paper : https://arxiv.org/abs/1406.1078
@@ -34,7 +34,7 @@ Orientation
 	- Presenter : 권성은
 	- Paper : https://arxiv.org/abs/1409.3215
 	- Material :  [Sequence to Sequence Learning with Neural Networks_권성은.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week04/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks_%EA%B6%8C%EC%84%B1%EC%9D%80.pdf)
-### Week05
+### Week05 (18/11/03)
 + A Neural Conversational Model
 	- Presenter : 원종국
 	- Paper : https://arxiv.org/abs/1506.05869
@@ -43,7 +43,7 @@ Orientation
 	- Presenter : 모경현
 	- Paper : https://arxiv.org/abs/1705.03122
 	- Material : [Convolutional Sequence to Sequence Learning_모경현.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week05/Convolutional%20Sequence%20to%20Sequence%20Learning_%EB%AA%A8%EA%B2%BD%ED%98%84.pdf) 
-### Week06
+### Week06 (18/11/10)
 + Neural Machine Translation by Jointly Learning to Align and Translate
 	- Presenter : 박희경
 	- Paper : https://arxiv.org/abs/1409.0473
@@ -52,7 +52,7 @@ Orientation
 	- Presenter : 김보섭
 	- Paper : https://arxiv.org/abs/1508.04025
 	- Material : [Effective Approaches to Attention-based Neural Machine Translation_김보섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week06/Effective%20Approaches%20to%20Attention-based%20Neural%20Machine%20Translation_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf)
-### Week07
+### Week07 (18/11/17)
 + A Structured Self-attentive Sentence Embedding
   - Presenter : 정미연
   - Paper : https://arxiv.org/abs/1703.03130
@@ -61,16 +61,16 @@ Orientation
   - Presenter : 이승재
   - Paper : https://arxiv.org/abs/1706.03762
   - Material : [Attention is All You Need_이승재.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week07/Attention%20is%20All%20You%20Need_%EC%9D%B4%EC%8A%B9%EC%9E%AC.pdf) 
-### Week08
+### Week08 (18/11/24)
 + Show and Tell: A Neural Image Caption Generator
 	- Presenter : 김경환
 	- Paper : https://arxiv.org/abs/1411.4555
-	- Material : 
+	- Material : [Show and Tell_A Neural Image Caption Generator_김경환.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week08/Show%20and%20Tell_A%20Neural%20Image%20Caption%20Generator_%EA%B9%80%EA%B2%BD%ED%99%98.pdf)
 + Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 	- Presenter : 이현준
 	- Paper : https://arxiv.org/abs/1502.03044
-	- Material : 
-### Week09
+	- Material : [Show, Attend and Tell_Neural Image Caption Generation with Visual Attention_이현준.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week08/Show%2C%20Attend%20and%20Tell_Neural%20Image%20Caption%20Generation%20with%20Visual%20Attention_%EC%9D%B4%ED%98%84%EC%A4%80.pdf)
+### Week09 (18/12/01)
 + Memory Networks
 	- Presenter : 이명재
 	- Paper : https://arxiv.org/abs/1410.3916
@@ -79,7 +79,7 @@ Orientation
 	- Presenter : 조주현
 	- Paper : https://arxiv.org/abs/1503.08895
 	- Material :   
-### Week10
+### Week10 (18/12/08)
 + Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
 	- Presenter : 김승일
 	- Paper : https://arxiv.org/abs/1506.07285
@@ -88,9 +88,9 @@ Orientation
 	- Presenter : 성나영
 	- Paper : https://arxiv.org/abs/1607.04606
 	- Material : 
-### Week11
+### Week11 (18/12/15)
 졸업식
-### Week12
+### Week12 (18/12/22)
 + Deep contextualized word representations
 	- Presenter : 김민섭
 	- Paper : https://arxiv.org/abs/1802.05365
