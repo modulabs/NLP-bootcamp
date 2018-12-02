@@ -74,18 +74,18 @@ Orientation
 + Memory Networks
 	- Presenter : 이명재
 	- Paper : https://arxiv.org/abs/1410.3916
-	- Material : 
+	- Material : [Memory Networks_이명재.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week09/Memory%20Networks_%EC%9D%B4%EB%AA%85%EC%9E%AC.pdf)
 + End-To-End Memory Networks
 	- Presenter : 조주현
 	- Paper : https://arxiv.org/abs/1503.08895
-	- Material :   
+	- Material : [End-To-End Memory Networks_조주현.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week09/End-To-End%20Memory%20Networks_%EC%A1%B0%EC%A3%BC%ED%98%84.pdf)
 ### Week10 (18/12/08)
 + Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
 	- Presenter : 김승일
 	- Paper : https://arxiv.org/abs/1506.07285
 	- Material : 
 + Enriching Word Vectors with Subword Information
-	- Presenter : 성나영
+	- Presenter : 강재욱
 	- Paper : https://arxiv.org/abs/1607.04606
 	- Material : 
 ### Week11 (18/12/15)
