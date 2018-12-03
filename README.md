@@ -85,14 +85,14 @@ Orientation
 	- Paper : https://arxiv.org/abs/1506.07285
 	- Material : 
 + Enriching Word Vectors with Subword Information
-	- Presenter : 강재욱
+	- Presenter :  김보섭
 	- Paper : https://arxiv.org/abs/1607.04606
 	- Material : 
 ### Week11 (18/12/15)
 졸업식
 ### Week12 (18/12/22)
 + Deep contextualized word representations
-	- Presenter : 김민섭
+	- Presenter : 김보섭
 	- Paper : https://arxiv.org/abs/1802.05365
 	- Material : 
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
