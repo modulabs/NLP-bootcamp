@@ -83,11 +83,11 @@ Orientation
 + Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
 	- Presenter : 김승일
 	- Paper : https://arxiv.org/abs/1506.07285
-	- Material : 
+	- Material : [Ask Me Anything_Dynamic Memory Networks for Natural Language Processing_김승일.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week10/Ask%20Me%20Anything_Dynamic%20Memory%20Networks%20for%20Natural%20Language%20Processing_%EA%B9%80%EC%8A%B9%EC%9D%BC.pdf)
 + Enriching Word Vectors with Subword Information
 	- Presenter :  김보섭
 	- Paper : https://arxiv.org/abs/1607.04606
-	- Material : 
+	- Material : [Enriching Word Vectors with Subword Information_김보섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week10/Enriching%20Word%20Vectors%20with%20Subword%20Information_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf)
 ### Week11 (18/12/15)
 졸업식
 ### Week12 (18/12/22)
