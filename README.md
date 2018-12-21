@@ -94,7 +94,7 @@ Orientation
 + Deep contextualized word representations
 	- Presenter : 김보섭
 	- Paper : https://arxiv.org/abs/1802.05365
-	- Material : 
+	- Material : [Deep contextualized word representations_김보섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week12/Deep%20contextualized%20word%20representations_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf)
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 	- Presenter : 김동화
 	- Paper : https://arxiv.org/abs/1810.04805
