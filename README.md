@@ -20,7 +20,7 @@ Orientation
 + Character-Aware Neural Language Models
   - Presenter : 이일구
   - Paper : https://arxiv.org/abs/1508.06615
-  - Material : 
+  - Material : [Character-Aware Neural Language Models_이일구.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week03/Character-Aware%20Neural%20Language%20Models_%EC%9D%B4%EC%9D%BC%EA%B5%AC.pdf)
 + A Convolutional Neural Network for Modelling Sentences
   - Presenter : 윤훈상
   - Paper : https://arxiv.org/abs/1404.2188
