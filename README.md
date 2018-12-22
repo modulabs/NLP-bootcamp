@@ -5,6 +5,8 @@
 + faciliator : 김보섭
 
 ## Schedule
+아래의 논문 순서를 따라 읽으실 뿐들은 "A Neural Conversational Model"은 꼭 읽지않아도 되며, "Convolutional Sequence to Sequence Learning"의 경우, week06에 해당하는 paper를 다 읽고 읽으시는 게 좋습니다. **다시 말하자면, week05와 week06만 순서를 바꿔 읽으시면 됩니다.**
+
 ### Week01 (18/10/06)
 Orientation
 ### Week02 (18/10/13)
@@ -98,4 +100,5 @@ Orientation
 + BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 	- Presenter : 김동화
 	- Paper : https://arxiv.org/abs/1810.04805
-	- Material :  
+	- Material : [BERT_Pre-training of Deep Bidirectional Transformers for Language Understanding_김동화.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/week12/BERT_Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding_%EA%B9%80%EB%8F%99%ED%99%94.pdf) 
+
