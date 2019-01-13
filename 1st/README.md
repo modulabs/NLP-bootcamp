@@ -1,4 +1,4 @@
-# NLP bootcamp
+# NLP bootcamp (1st)
 모두의연구소 flipped school 과정 중 하나인 NLP bootcamp에서 발표한 paper 목록과 그 자료들입니다.
 
 + participant : 강재욱, 권성은, 김경환, 김동화, 김민섭, 김수정, 김승일, 모경현, 박정배, 박희경, 염혜원, 원종국, 윤훈상, 이명재, 이승재, 이일구, 이현준, 정미연, 최우정, 조주현
