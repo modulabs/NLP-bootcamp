@@ -76,7 +76,7 @@
 	+ Material : 
 ### Week09 (19/03/09)
 * End-to-end memory network
-	+ Presenter : 김정원
+	+ Presenter : 
 	+ Paper : https://arxiv.org/abs/1503.08895
 	+ Material : 
 * Attention-over-Attention Neural Networks for Reading Comprehension
