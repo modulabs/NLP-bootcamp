@@ -62,7 +62,7 @@
 	+ Paper : https://arxiv.org/abs/1508.04025
 	+ Material : 
 * Neural Machine Translation in Linear Time
-	+ Presenter : 김보섭
+	+ Presenter : 조륜
 	+ Paper : https://arxiv.org/abs/1610.10099
 	+ Material : 
 ### Week08 (19/03/02)
@@ -76,7 +76,7 @@
 	+ Material : 
 ### Week09 (19/03/09)
 * End-to-end memory network
-	+ Presenter : 
+	+ Presenter : 김성운
 	+ Paper : https://arxiv.org/abs/1503.08895
 	+ Material : 
 * Attention-over-Attention Neural Networks for Reading Comprehension
