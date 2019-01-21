@@ -7,6 +7,6 @@
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/1st
 
 ## 2nd (19.01.12 ~ 19.03.30)
-+ participant : 강재욱, 김성운, 김수원, 김수정, 김정원, 김충현, 김현우, 남재신, 도승헌, 박석, 신성진, 염혜원, 이기창, 이웅원, 임태완, 조륜, 조용래, 조원호, 최우정, 최태균, 한지윤
++ participant : 강재욱, 김성운, 김수원, 김수정, 김정원, 김충현, 김현우, 남재신, 도승헌, 박석, 백병인, 신성진, 염혜원, 이기창, 이웅원, 임태완, 조륜, 조용래, 조원호, 최우정, 최태균, 한지윤
 + faciliator : 김보섭
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/2nd
