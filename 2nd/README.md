@@ -15,11 +15,11 @@
 * Character-level Convolutional Networks for Text Classification
 	+ Presenter : 이웅원
 	+ Paper : https://arxiv.org/abs/1509.01626
-	+ Material : 
+	+ Material : [Character-level Convolutional Networks for Text Classification_이웅원](https://www.notion.so/daangn/Character-level-Convolutional-Networks-for-Text-Classification-3fb5552c27b94a3099e8e79ba1a272f9)
 * Very Deep Convolutional Networks for Text Classification
 	+ Presenter : 최우정
 	+ Paper : https://arxiv.org/abs/1606.01781
-	+ Material : 
+	+ Material : [Very Deep Convolutional Networks for Text Classification_최우정.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week02/Very%20Deep%20Convolutional%20Networks%20for%20Text%20Classification_%EC%B5%9C%EC%9A%B0%EC%A0%95.pdf)
 ### Week03 (19/01/26)
 * Character-Aware Neural Language Models
 	+ Presenter : 김정원
