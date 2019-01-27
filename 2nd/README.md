@@ -24,11 +24,11 @@
 * Character-Aware Neural Language Models
 	+ Presenter : 김정원
 	+ Paper :https://arxiv.org/abs/1508.06615
-	+ Material : 
+	+ Material : [Character-Aware Neural Language Models_김정원.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week03/Character-Aware%20Neural%20Language%20Models_%EA%B9%80%EC%A0%95%EC%9B%90.pdf)
 * Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers
 	+ Presenter : 도승헌
 	+ Paper : https://arxiv.org/abs/1602.00367
-	+ Material : 
+	+ Material : [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers_도승헌.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week03/Efficient%20Character-level%20Document%20Classification%20by%20Combining%20Convolution%20and%20Recurrent%20Layers_%EB%8F%84%EC%8A%B9%ED%97%8C.pdf)
 ### Week04 (19/02/02)
 * End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
 	+ Presenter : 이기창
