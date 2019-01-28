@@ -35,7 +35,7 @@
 	+ Paper : https://arxiv.org/abs/1603.01354
 	+ Material : 
 * Fast and accurate Entity Recognition with Iterated Dilated Convolutions
-	+ Presenter : 김보섭
+	+ Presenter : 백병인
 	+ Paper : https://arxiv.org/abs/1702.02098
 	+ Material : 
 ### Week05 (19/02/09)
