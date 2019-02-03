@@ -11,24 +11,29 @@
 	+ Presenter : 김보섭
 	+ Paper :  https://arxiv.org/abs/1408.5882
 	+ Material : [Convolutional Neural Networks for Sentence Classification_김보섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week01/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf) 
+	+ Summarization : [김정원님 블로그 (Convolutional Neural Networks for Sentence Classfication)](https://www.quantumdl.com/entry/1%EC%A3%BC%EC%B0%A8-Convolutional-Neural-Networks-for-Sentence-Classification)
 ### Week02 (19/01/19)
 * Character-level Convolutional Networks for Text Classification
 	+ Presenter : 이웅원
 	+ Paper : https://arxiv.org/abs/1509.01626
 	+ Material : [Character-level Convolutional Networks for Text Classification_이웅원](https://www.notion.so/daangn/Character-level-Convolutional-Networks-for-Text-Classification-3fb5552c27b94a3099e8e79ba1a272f9)
+	+ Summarization : [김정원님 블로그 (Character-level Convolutional Networks for Text Classification)](https://www.quantumdl.com/entry/Characterlevel-Convolutional-Networks-for-Text-Classification)
 * Very Deep Convolutional Networks for Text Classification
 	+ Presenter : 최우정
 	+ Paper : https://arxiv.org/abs/1606.01781
 	+ Material : [Very Deep Convolutional Networks for Text Classification_최우정.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week02/Very%20Deep%20Convolutional%20Networks%20for%20Text%20Classification_%EC%B5%9C%EC%9A%B0%EC%A0%95.pdf)
+	+ Summarization : [김정원님 블로그 (Very Deep Convolutional Networks for Text Classification)](https://www.quantumdl.com/entry/2%EC%A3%BC%EC%B0%A82-Very-Deep-Convolutional-Networks-for-Text-Classification)
 ### Week03 (19/01/26)
 * Character-Aware Neural Language Models
-	+ Presenter : 김정원
-	+ Paper :https://arxiv.org/abs/1508.06615
-	+ Material : [Character-Aware Neural Language Models_김정원.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week03/Character-Aware%20Neural%20Language%20Models_%EA%B9%80%EC%A0%95%EC%9B%90.pdf)
+  + Presenter : 김정원
+  + Paper :https://arxiv.org/abs/1508.06615
+  + Material : [Character-Aware Neural Language Models_김정원.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week03/Character-Aware%20Neural%20Language%20Models_%EA%B9%80%EC%A0%95%EC%9B%90.pdf)
+  + Summarization : [김정원님 블로그 (Character-Aware Neural Language Models)](https://www.quantumdl.com/entry/3%EC%A3%BC%EC%B0%A81-CharacterAware-Neural-Language-Models)
 * Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers
-	+ Presenter : 도승헌
-	+ Paper : https://arxiv.org/abs/1602.00367
-	+ Material : [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers_도승헌.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week03/Efficient%20Character-level%20Document%20Classification%20by%20Combining%20Convolution%20and%20Recurrent%20Layers_%EB%8F%84%EC%8A%B9%ED%97%8C.pdf)
+  + Presenter : 도승헌
+  + Paper : https://arxiv.org/abs/1602.00367
+  + Material : [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers_도승헌.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week03/Efficient%20Character-level%20Document%20Classification%20by%20Combining%20Convolution%20and%20Recurrent%20Layers_%EB%8F%84%EC%8A%B9%ED%97%8C.pdf)
+  + Summarization : [김정원님 블로그 (Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers)](https://www.quantumdl.com/entry/3%EC%A3%BC%EC%B0%A82-Efficient-Characterlevel-Document-Classification-by-Combining-Convolution-and-Recurrent-Layers)
 ### Week04 (19/02/02)
 * End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
 	+ Presenter : 이기창
