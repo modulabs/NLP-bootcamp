@@ -79,14 +79,14 @@
 	+ Presenter : 김성운
 	+ Paper : https://arxiv.org/abs/1503.08895
 	+ Material : 
-* Attention-over-Attention Neural Networks for Reading Comprehension
+* Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
 	+ Presenter : 조용래
-	+ Paper : https://arxiv.org/abs/1607.04423
+	+ Paper : https://arxiv.org/abs/1506.07285
 	+ Material : 
 ### Week10 (19/03/16)
-* Dynamic coattention networks for question answering
+* Teaching Machines to Read and Comprehend
 	+ Presenter : 남재신
-	+ Paper : https://arxiv.org/abs/1611.01604
+	+ Paper : https://arxiv.org/abs/1506.03340
 	+ Material : 
 * Bi-directional attention flow for machine comprehension
 	+ Presenter : 박석
