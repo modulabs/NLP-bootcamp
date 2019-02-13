@@ -1,7 +1,7 @@
 # NLP bootcamp (2nd, 19.01.12 ~ 19.03.30)
 모두의연구소 flipped school 과정 중 하나인 NLP bootcamp에서 발표한 paper 목록과 그 자료들입니다.
 
-* participant : 강재욱, 김성운, 김수원, 김수정, 김정원, 김충현, 김현우, 남재신, 도승헌, 박석, 백병인, 신성진, 염혜원, 이기창, 이웅원, 임태완, 조륜, 조용래, 조원호, 최우정, 최태균, 한지윤
+* participant : 강재욱, 김동현, 김성운, 김수원, 김수정, 김정원, 김충현, 김현우, 남재신, 도승헌, 박석, 백병인, 신성진, 염혜원, 이기창, 이웅원, 임태완, 조륜, 조용래, 조원호, 최우정, 최태균, 한지윤
 * faciliator : 김보섭
 
 ## Schedule
@@ -38,11 +38,13 @@
 * End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
 	+ Presenter : 이기창
 	+ Paper : https://arxiv.org/abs/1603.01354
-	+ Material : 
+	+ Material : [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF_이기창.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week04/End-to-end%20Sequence%20Labeling%20via%20Bi-directional%20LSTM-CNNs-CRF_%EC%9D%B4%EA%B8%B0%EC%B0%BD.pdf)
+	+ Summarization : [김정원님 블로그 (End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF)](https://www.quantumdl.com/entry/Endtoend-Sequence-Labeling-via-Bidirectional-LSTMCNNsCRF)
 * Fast and accurate Entity Recognition with Iterated Dilated Convolutions
 	+ Presenter : 백병인
 	+ Paper : https://arxiv.org/abs/1702.02098
-	+ Material : 
+	+ Material : [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions_백병인.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week04/Fast%20and%20Accurate%20Entity%20Recognition%20with%20Iterated%20Dilated%20Convolutions_%EB%B0%B1%EB%B3%91%EC%9D%B8.pdf)
+	+ Summarization : [김정원님 블로그 (Fast and Accurate Entity Recognition with Iterated Dilated Convolutions)](https://www.quantumdl.com/entry/4%EC%A3%BC%EC%B0%A82-Fast-and-Accurate-Entity-Recognition-with-Iterated-Dilated-Convolutions)
 ### Week05 (19/02/09)
 * Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation
 	+ Presenter : 신성진
