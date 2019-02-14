@@ -34,7 +34,7 @@
   + Paper : https://arxiv.org/abs/1602.00367
   + Material : [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers_도승헌.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week03/Efficient%20Character-level%20Document%20Classification%20by%20Combining%20Convolution%20and%20Recurrent%20Layers_%EB%8F%84%EC%8A%B9%ED%97%8C.pdf)
   + Summarization : [김정원님 블로그 (Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers)](https://www.quantumdl.com/entry/3%EC%A3%BC%EC%B0%A82-Efficient-Characterlevel-Document-Classification-by-Combining-Convolution-and-Recurrent-Layers)
-### Week04 (19/02/02)
+### Week04 (19/02/09)
 * End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
 	+ Presenter : 이기창
 	+ Paper : https://arxiv.org/abs/1603.01354
@@ -45,7 +45,7 @@
 	+ Paper : https://arxiv.org/abs/1702.02098
 	+ Material : [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions_백병인.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week04/Fast%20and%20Accurate%20Entity%20Recognition%20with%20Iterated%20Dilated%20Convolutions_%EB%B0%B1%EB%B3%91%EC%9D%B8.pdf)
 	+ Summarization : [김정원님 블로그 (Fast and Accurate Entity Recognition with Iterated Dilated Convolutions)](https://www.quantumdl.com/entry/4%EC%A3%BC%EC%B0%A82-Fast-and-Accurate-Entity-Recognition-with-Iterated-Dilated-Convolutions)
-### Week05 (19/02/09)
+### Week05 (19/02/16)
 * Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation
 	+ Presenter : 신성진
 	+ Paper : https://arxiv.org/abs/1406.1078
@@ -54,7 +54,7 @@
 	+ Presenter : 조원호
 	+ Paper : https://arxiv.org/abs/1409.3215
 	+ Material : 
-### Week06 (19/02/16)
+### Week06 (19/02/23)
 * Neural Machine Translation by Jointly Learning to Align and Translate
 	+ Presenter : 한지윤
 	+ Paper : https://arxiv.org/abs/1409.0473
@@ -63,7 +63,7 @@
 	+ Presenter : 김수정
 	+ Paper : https://arxiv.org/abs/1508.07909
 	+ Material : 
-### Week07 (19/02/23)
+### Week07 (19/03/02)
 * Effective Approaches to Attention-based Neural Machine Translation
 	+ Presenter : 김수원
 	+ Paper : https://arxiv.org/abs/1508.04025
@@ -72,7 +72,7 @@
 	+ Presenter : 조륜
 	+ Paper : https://arxiv.org/abs/1610.10099
 	+ Material : 
-### Week08 (19/03/02)
+### Week08 (19/03/09)
 * Convolutional Sequence to Sequence Learning
 	+ Presenter : 최태균
 	+ Paper : https://arxiv.org/abs/1705.03122
@@ -81,7 +81,7 @@
 	+ Presenter : 임태완
 	+ Paper : https://arxiv.org/abs/1706.03762
 	+ Material : 
-### Week09 (19/03/09)
+### Week09 (19/03/16)
 * End-to-end memory network
 	+ Presenter : 김성운
 	+ Paper : https://arxiv.org/abs/1503.08895
@@ -90,7 +90,7 @@
 	+ Presenter : 조용래
 	+ Paper : https://arxiv.org/abs/1506.07285
 	+ Material : 
-### Week10 (19/03/16)
+### Week10 (19/03/23)
 * Teaching Machines to Read and Comprehend
 	+ Presenter : 남재신
 	+ Paper : https://arxiv.org/abs/1506.03340
@@ -99,7 +99,7 @@
 	+ Presenter : 박석
 	+ Paper : https://arxiv.org/abs/1611.01603
 	+ Material : 
-### Week11 (19/03/23)
+### Week11 (19/03/30)
 * Learned in Translation: Contextualized Word Vectors
 	+ Presenter : 김현우
 	+ Paper : https://arxiv.org/abs/1708.00107
@@ -108,7 +108,7 @@
 	+ Presenter : 염혜원
 	+ Paper : https://arxiv.org/abs/1802.05365
 	+ Material : 
-### Week12 (19/03/30)
+### Week12 (19/04/06)
 * Improving Language Understanding by Generative Pre-Training
 	+ Presenter : 김충현
 	+ Paper : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
