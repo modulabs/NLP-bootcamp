@@ -49,11 +49,12 @@
 * Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation
 	+ Presenter : 신성진
 	+ Paper : https://arxiv.org/abs/1406.1078
-	+ Material : 
+	+ Material : [Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation_신성진.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week05/Learning%20Phrase%20Representation%20using%20RNN%20Encoder-Decoder%20for%20Statistical%20Machine%20Translation_%EC%8B%A0%EC%84%B1%EC%A7%84.pdf)
+	+ Summarization : [김정원님 블로그 (Learning Phrase Representation using RNN Encoder-Decoder for Statistical Machine Translation)](https://www.quantumdl.com/entry/5%EC%A3%BC%EC%B0%A81-Learning-Phrase-Representation-using-RNN-EncoderDecoder-for-Statistical-Machine-Translation)
 * Sequence to Sequence Learning with Neural Networks
 	+ Presenter : 조원호
 	+ Paper : https://arxiv.org/abs/1409.3215
-	+ Material : 
+	+ Material : [Sequence to Sequence Learning with Neural Networks_조원호](https://www.notion.so/Sequence-to-Sequence-Learning-with-Neural-Networks-d221d4ed2e9241e29047d95a6a9e00b2)
 ### Week06 (19/02/23)
 * Neural Machine Translation by Jointly Learning to Align and Translate
 	+ Presenter : 한지윤
