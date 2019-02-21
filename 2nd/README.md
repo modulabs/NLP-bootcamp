@@ -70,7 +70,7 @@
 	+ Paper : https://arxiv.org/abs/1508.04025
 	+ Material : 
 * Neural Machine Translation in Linear Time
-	+ Presenter : 조륜
+	+ Presenter : 김보섭
 	+ Paper : https://arxiv.org/abs/1610.10099
 	+ Material : 
 ### Week08 (19/03/09)
