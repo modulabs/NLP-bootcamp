@@ -1,7 +1,7 @@
 # NLP bootcamp (2nd, 19.01.12 ~ 19.03.30)
 모두의연구소 flipped school 과정 중 하나인 NLP bootcamp에서 발표한 paper 목록과 그 자료들입니다.
 
-* participant : 강재욱, 김동현, 김성운, 김수원, 김수정, 김정원, 김충현, 김현우, 남재신, 도승헌, 박석, 백병인, 신성진, 염혜원, 이기창, 이웅원, 임태완, 조륜, 조용래, 조원호, 최우정, 최태균, 한지윤
+* participant : 강재욱, 김동현, 김성운, 김수정, 김정원, 김충현, 김현우, 남재신, 도승헌, 박석, 백병인, 신성진, 염혜원, 이기창, 이웅원, 임태완, 조용래, 조원호, 최우정, 최태균, 한지윤
 * faciliator : 김보섭
 
 ## Schedule
@@ -66,11 +66,11 @@
 	+ Material : 
 ### Week07 (19/03/02)
 * Effective Approaches to Attention-based Neural Machine Translation
-	+ Presenter : 김수원
+	+ Presenter : 김보섭
 	+ Paper : https://arxiv.org/abs/1508.04025
 	+ Material : 
 * Neural Machine Translation in Linear Time
-	+ Presenter : 김보섭
+	+ Presenter : 
 	+ Paper : https://arxiv.org/abs/1610.10099
 	+ Material : 
 ### Week08 (19/03/09)
