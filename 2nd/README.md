@@ -55,15 +55,17 @@
 	+ Presenter : 조원호
 	+ Paper : https://arxiv.org/abs/1409.3215
 	+ Material : [Sequence to Sequence Learning with Neural Networks_조원호](https://www.notion.so/Sequence-to-Sequence-Learning-with-Neural-Networks-d221d4ed2e9241e29047d95a6a9e00b2)
+	+ Summarization : [김정원님 블로그 (Sequente to Sequence Learning with Neural Networks)](https://www.quantumdl.com/entry/5%EC%A3%BC%EC%B0%A82-Sequence-to-Sequence-Learning-with-Neural-Networks)
 ### Week06 (19/02/23)
 * Neural Machine Translation by Jointly Learning to Align and Translate
-	+ Presenter : 한지윤
-	+ Paper : https://arxiv.org/abs/1409.0473
-	+ Material : 
+  + Presenter : 한지윤
+  + Paper : https://arxiv.org/abs/1409.0473
+  + Material : [Neural Machine Translation by Jointly Learning to Align and Translate_한지윤.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week06/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate_%ED%95%9C%EC%A7%80%EC%9C%A4.pdf)
+  + Summarization : [김정원님 블로그 (Neural Machine Translation by Jointly Learning to Align and Translate)](https://www.quantumdl.com/entry/6%EC%A3%BC%EC%B0%A81-Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate)
 * Neural Machine Translation of Rare Words with Subword Units
-	+ Presenter : 김수정
-	+ Paper : https://arxiv.org/abs/1508.07909
-	+ Material : 
+  + Presenter : 김수정
+  + Paper : https://arxiv.org/abs/1508.07909
+  + Material : 
 ### Week07 (19/03/02)
 * Effective Approaches to Attention-based Neural Machine Translation
 	+ Presenter : 김보섭
