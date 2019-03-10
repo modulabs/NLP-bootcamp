@@ -68,13 +68,15 @@
   + Material : 
 ### Week07 (19/03/02)
 * Effective Approaches to Attention-based Neural Machine Translation
-	+ Presenter : 김보섭
-	+ Paper : https://arxiv.org/abs/1508.04025
-	+ Material : 
+  + Presenter : 김보섭
+  + Paper : https://arxiv.org/abs/1508.04025
+  + Material : [Effective Approaches to Attention-based Neural Machine Translation_김보섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/1st/week06/Effective%20Approaches%20to%20Attention-based%20Neural%20Machine%20Translation_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf)
+  + Summarization : [김정원님 블로그 (Effective Approaches to Attention-based Neural Machine Translation)](https://www.quantumdl.com/entry/7%EC%A3%BC%EC%B0%A81-Effective-Approaches-to-Attentionbased-Neural-Machine-Translation?category=691904)
 * Neural Machine Translation in Linear Time
-	+ Presenter : 김동현
-	+ Paper : https://arxiv.org/abs/1610.10099
-	+ Material : 
+  + Presenter : 김동현
+  + Paper : https://arxiv.org/abs/1610.10099
+  + Material : [Neural Machine Translation in Linear Time_김동현.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week07/Neural%20Machine%20Translation%20in%20Linear%20Time_%EA%B9%80%EB%8F%99%ED%98%84.pdf)
+  + Summarization : [김정원님 블로그 (Neural Machine Translation in Linear Time)](https://www.quantumdl.com/entry/7%EC%A3%BC%EC%B0%A82-Neural-Machine-Translation-in-Linear-Time)
 ### Week08 (19/03/09)
 * Convolutional Sequence to Sequence Learning
 	+ Presenter : 최태균
