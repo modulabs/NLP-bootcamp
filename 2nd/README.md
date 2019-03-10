@@ -81,9 +81,9 @@
 * Convolutional Sequence to Sequence Learning
 	+ Presenter : 최태균
 	+ Paper : https://arxiv.org/abs/1705.03122
-	+ Material : 
+	+ Material : [Convolutional Sequence to Sequence Learning_최태균.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week08/Convolutional%20Sequence%20to%20Sequence%20Learning_%EC%B5%9C%ED%83%9C%EA%B7%A0.pdf)
 * Attention is All You Need
-	+ Presenter : 임태완
+	+ Presenter : 김보섭
 	+ Paper : https://arxiv.org/abs/1706.03762
 	+ Material : 
 ### Week09 (19/03/16)
