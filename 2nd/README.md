@@ -83,10 +83,6 @@
 	+ Paper : https://arxiv.org/abs/1705.03122
 	+ Material : [Convolutional Sequence to Sequence Learning_최태균.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week08/Convolutional%20Sequence%20to%20Sequence%20Learning_%EC%B5%9C%ED%83%9C%EA%B7%A0.pdf)
 	+ Summarization : [김정원님 블로그 (Convolutional Sequence to Sequence Learning)](https://www.quantumdl.com/entry/8%EC%A3%BC%EC%B0%A81-Convolutional-Sequence-to-Sequence-Learning)
-* Attention is All You Need
-	+ Presenter : 김보섭
-	+ Paper : https://arxiv.org/abs/1706.03762
-	+ Material : 
 ### Week09 (19/03/16)
 * End-to-end memory network
 	+ Presenter : 김성운
@@ -106,13 +102,13 @@
 	+ Paper : https://arxiv.org/abs/1611.01603
 	+ Material : 
 ### Week11 (19/03/30)
-* Learned in Translation: Contextualized Word Vectors
-	+ Presenter : 김현우
-	+ Paper : https://arxiv.org/abs/1708.00107
-	+ Material : 
 * Deep contextualized word representations
 	+ Presenter : 염혜원
 	+ Paper : https://arxiv.org/abs/1802.05365
+	+ Material : 
+* Attention is All You Need
+	+ Presenter : 김보섭
+	+ Paper : https://arxiv.org/abs/1706.03762
 	+ Material : 
 ### Week12 (19/04/06)
 * Improving Language Understanding by Generative Pre-Training
