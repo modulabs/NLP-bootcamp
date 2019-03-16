@@ -107,7 +107,7 @@
 	+ Paper : https://arxiv.org/abs/1802.05365
 	+ Material : 
 * Attention is All You Need
-	+ Presenter : 김보섭
+	+ Presenter : 김현우
 	+ Paper : https://arxiv.org/abs/1706.03762
 	+ Material : 
 ### Week12 (19/04/06)
