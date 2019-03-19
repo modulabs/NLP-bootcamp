@@ -85,13 +85,15 @@
 	+ Summarization : [김정원님 블로그 (Convolutional Sequence to Sequence Learning)](https://www.quantumdl.com/entry/8%EC%A3%BC%EC%B0%A81-Convolutional-Sequence-to-Sequence-Learning)
 ### Week09 (19/03/16)
 * End-to-end memory network
-	+ Presenter : 김성운
-	+ Paper : https://arxiv.org/abs/1503.08895
-	+ Material : 
+  + Presenter : 김성운
+  + Paper : https://arxiv.org/abs/1503.08895
+  + Material : [End-to-end memory network_김성운.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week09/End-to-end%20memory%20network_%EA%B9%80%EC%84%B1%EC%9A%B4.pdf)
+  + Summarization : 
 * Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
-	+ Presenter : 조용래
-	+ Paper : https://arxiv.org/abs/1506.07285
-	+ Material : 
+  + Presenter : 조용래
+  + Paper : https://arxiv.org/abs/1506.07285
+  + Material : [Ask Me Anything_ Dynamic Memory Networks for Natural Language Processing_조용래.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week09/Ask%20Me%20Anything_%20Dynamic%20Memory%20Networks%20for%20Natural%20Language%20Processing_%EC%A1%B0%EC%9A%A9%EB%9E%98.pdf)
+  + Summarization : [김정원님 블로그 (Ask Me Anything: Dynamic Memory Networks for Natural Language Processing)](https://www.quantumdl.com/entry/9%EC%A3%BC%EC%B0%A82-Ask-Me-Anything-Dynamic-Memory-Networks-for-Natural-Language-Processing)
 ### Week10 (19/03/23)
 * Teaching Machines to Read and Comprehend
 	+ Presenter : 남재신
