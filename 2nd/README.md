@@ -88,7 +88,7 @@
   + Presenter : 김성운
   + Paper : https://arxiv.org/abs/1503.08895
   + Material : [End-to-end memory network_김성운.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week09/End-to-end%20memory%20network_%EA%B9%80%EC%84%B1%EC%9A%B4.pdf)
-  + Summarization : 
+  + Summarization : [김정원님 블로그 (End-to-end memory network)](https://www.quantumdl.com/entry/9%EC%A3%BC%EC%B0%A81-EndtoEnd-Memory-Network)
 * Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
   + Presenter : 조용래
   + Paper : https://arxiv.org/abs/1506.07285
