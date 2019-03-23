@@ -100,7 +100,7 @@
 	+ Paper : https://arxiv.org/abs/1506.03340
 	+ Material : 
 * Bi-directional attention flow for machine comprehension
-	+ Presenter : 박석
+	+ Presenter : 최태균
 	+ Paper : https://arxiv.org/abs/1611.01603
 	+ Material : 
 ### Week11 (19/03/30)
