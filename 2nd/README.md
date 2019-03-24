@@ -102,7 +102,7 @@
 * Bi-directional attention flow for machine comprehension
 	+ Presenter : 최태균
 	+ Paper : https://arxiv.org/abs/1611.01603
-	+ Material : 
+	+ Material : [Bi-directional attention flow for machine comprehension_최태균.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week10/Bi-directional%20attention%20flow%20for%20machine%20comprehension_%EC%B5%9C%ED%83%9C%EA%B7%A0.pdf)
 ### Week11 (19/03/30)
 * Deep contextualized word representations
 	+ Presenter : 염혜원
