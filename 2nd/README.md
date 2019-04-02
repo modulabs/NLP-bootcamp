@@ -99,19 +99,23 @@
 	+ Presenter : 남재신
 	+ Paper : https://arxiv.org/abs/1506.03340
 	+ Material : [Teaching Machines to Read and Comprehend_남재신.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week10/Teaching%20Machines%20to%20Read%20and%20Comprehend_%EB%82%A8%EC%9E%AC%EC%8B%A0.pdf)
+	+ Summarization : [김정원님 블로그 (Teaching Machines to Read and Comprehend)](https://www.quantumdl.com/entry/10%EC%A3%BC%EC%B0%A81-Teaching-Machines-to-Read-and-Comprehend)
 * Bi-directional attention flow for machine comprehension
 	+ Presenter : 최태균
 	+ Paper : https://arxiv.org/abs/1611.01603
 	+ Material : [Bi-directional attention flow for machine comprehension_최태균.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week10/Bi-directional%20attention%20flow%20for%20machine%20comprehension_%EC%B5%9C%ED%83%9C%EA%B7%A0.pdf)
+	+ Summarization : [김정원님 블로그 (Bidirectional Attention Flow for Machine Comprehension )](https://www.quantumdl.com/entry/10%EC%A3%BC%EC%B0%A82-Bidirectional-Attention-Flow-for-Machine-Comprehension-BiDAF)
 ### Week11 (19/03/30)
 * Deep contextualized word representations
   + Presenter : 염혜원
   + Paper : https://arxiv.org/abs/1802.05365
   + Material : [Deep contextualized word representations_염혜원.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week11/Deep%20contextualized%20word%20representations_%EC%97%BC%ED%98%9C%EC%9B%90.pdf)
+  + Summarization : [김정원님 블로그 (Deep Contextualized Word Representations)](https://www.quantumdl.com/entry/11%EC%A3%BC%EC%B0%A81-Deep-Contextualized-Word-Representations-ELMo)
 * Attention is All You Need
   + Presenter : 김현우
   + Paper : https://arxiv.org/abs/1706.03762
-  + Material : [Attention Is All You Need_김현우.pdf]()
+  + Material : [Attention Is All You Need_김현우.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week11/Attention%20Is%20All%20You%20Need_%EA%B9%80%ED%98%84%EC%9A%B0.pdf)
+  + Summarization : [김정원님 블로그 (Attention is All You Need )](https://www.quantumdl.com/entry/11%EC%A3%BC%EC%B0%A82-Attention-is-All-You-Need-Transformer)
 ### Week12 (19/04/06)
 * Improving Language Understanding by Generative Pre-Training
 	+ Presenter : 김충현
