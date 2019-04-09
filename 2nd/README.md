@@ -121,8 +121,10 @@
 	+ Presenter : 김충현
 	+ Paper : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 	+ Material : 
+	+ Summarization : [김정원님 블로그 (Improving Language Understanding by Generative Pre-Training (GPT-1))](https://www.quantumdl.com/entry/12%EC%A3%BC%EC%B0%A81-Improving-Language-Understanding-by-Generative-Pre-Training?category=691904)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 	+ Presenter : 강재욱
 	+ Paper : https://arxiv.org/abs/1810.04805
 	+ Material : 
+	+ Summarization : [김정원님 블로그 (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)](https://www.quantumdl.com/entry/12%EC%A3%BC%EC%B0%A82-BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding)
 
