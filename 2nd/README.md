@@ -120,7 +120,7 @@
 * Improving Language Understanding by Generative Pre-Training
 	+ Presenter : 김충현
 	+ Paper : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
-	+ Material : 
+	+ Material : [Improving Language Understanding by Generative Pre-Training_김충현.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week12/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training_%EA%B9%80%EC%B6%A9%ED%98%84.pdf)
 	+ Summarization : [김정원님 블로그 (Improving Language Understanding by Generative Pre-Training (GPT-1))](https://www.quantumdl.com/entry/12%EC%A3%BC%EC%B0%A81-Improving-Language-Understanding-by-Generative-Pre-Training?category=691904)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 	+ Presenter : 강재욱
