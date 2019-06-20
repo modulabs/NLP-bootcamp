@@ -65,7 +65,7 @@
 * Neural Machine Translation of Rare Words with Subword Units
   + Presenter : 김수정
   + Paper : https://arxiv.org/abs/1508.07909
-  + Material : 
+  + Material : [Neural Machine Translation of rare words with subword units_김수정.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week06/Neural%20Machine%20Translation%20of%20rare%20words%20with%20subword%20units_%EA%B9%80%EC%88%98%EC%A0%95.pdf)
 ### Week07 (19/03/02)
 * Effective Approaches to Attention-based Neural Machine Translation
   + Presenter : 김보섭
@@ -123,8 +123,8 @@
 	+ Material : [Improving Language Understanding by Generative Pre-Training_김충현.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week12/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training_%EA%B9%80%EC%B6%A9%ED%98%84.pdf)
 	+ Summarization : [김정원님 블로그 (Improving Language Understanding by Generative Pre-Training (GPT-1))](https://www.quantumdl.com/entry/12%EC%A3%BC%EC%B0%A81-Improving-Language-Understanding-by-Generative-Pre-Training?category=691904)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-	+ Presenter : 강재욱
+	+ Presenter : 김보섭
 	+ Paper : https://arxiv.org/abs/1810.04805
-	+ Material : 
+	+ Material : [BERT_Pre-training of Deep Bidirectional Transformers for Language Understanding_김보섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/2nd/week12/BERT_Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20%20Language%20%20Understanding_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf)
 	+ Summarization : [김정원님 블로그 (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)](https://www.quantumdl.com/entry/12%EC%A3%BC%EC%B0%A82-BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding)
 
