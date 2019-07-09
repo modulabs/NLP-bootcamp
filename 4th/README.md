@@ -10,7 +10,7 @@
 * Attention Is All You Need
 	+ Presenter : 김보섭
 	+ Paper :  https://arxiv.org/abs/1408.5882
-	+ Material : 
+	+ Material : [Attention Is All You Need_김보섭.pdf]([https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week01/Attention%20Is%20All%20You%20Need_%EA%B9%80%EB%B3%B4%EC%84%AD.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week01/Attention Is All You Need_김보섭.pdf))
 ### Week02 (19/07/13)
 * Universal Sentence Encoder
 	+ Presenter : 최태균
