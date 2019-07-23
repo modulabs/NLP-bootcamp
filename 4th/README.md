@@ -22,13 +22,13 @@
 	+ Material : [Self-Attetnion with Relative Position Representations_김수원](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-5cba7d03ceb04555a2b147c06f024671)
 ### Week03 (19/07/20)
 * Neural Machine Translation of Rare Words with Subword Units
-	+ Presenter : 
+	+ Presenter : 유원준
 	+ Paper : https://arxiv.org/abs/1508.07909
-	+ Material : 
+	+ Material : [Neural Machine Translation of Rare Words with Subword Units_유원준.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week03/Neural%20Machine%20Translation%20of%20Rare%20Words%20with%20Subword%20Units_%EC%9C%A0%EC%9B%90%EC%A4%80.pdf)
 * Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
-	+ Presenter :
+	+ Presenter : 이현경
 	+ Paper : https://arxiv.org/abs/1804.10959
-	+ Material :
+	+ Material : [Subword Regularization_이현경.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week03/Subword%20Regularization_%EC%9D%B4%ED%98%84%EA%B2%BD.pdf)
 ### Week04 (19/07/27)
 * Improving Language Understanding by Generative Pre-Training
 	+ Presenter : 
