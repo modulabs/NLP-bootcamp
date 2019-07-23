@@ -15,11 +15,11 @@
 * Universal Sentence Encoder
 	+ Presenter : 최태균
 	+ Paper : https://arxiv.org/abs/1803.11175
-	+ Material : 
+	+ Material : [Universal Sentence Encoder_최태균.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week02/Universal%20Sentence%20Encoder_%EC%B5%9C%ED%83%9C%EA%B7%A0.pdf)
 * Self-Attention with Relative Position Representations
 	+ Presenter : 김수원
 	+ Paper : https://arxiv.org/abs/1803.02155
-	+ Material :
+	+ Material : [Self-Attetnion with Relative Position Representations_김수원](https://www.notion.so/Self-Attention-with-Relative-Position-Representations-5cba7d03ceb04555a2b147c06f024671)
 ### Week03 (19/07/20)
 * Neural Machine Translation of Rare Words with Subword Units
 	+ Presenter : 
