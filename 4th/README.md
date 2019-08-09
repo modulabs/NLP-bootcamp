@@ -33,11 +33,11 @@
 * Improving Language Understanding by Generative Pre-Training
 	+ Presenter : 박지민
 	+ Paper : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
-	+ Material : 
+	+ Material : [Improving Language Understanding by Generative Pre-Training_박지민.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week04/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training_%EB%B0%95%EC%A7%80%EB%AF%BC.pdf)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 
 	+ Presenter : 김민수
 	+ Paper : https://arxiv.org/abs/1810.04805
-	+ Material :
+	+ Material : [BERT_Pre-training of Deep Bidirectional Transformers for Language Understanding_김민수.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week04/BERT_Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding_%EA%B9%80%EB%AF%BC%EC%88%98.pdf)
 ### Week05 (19/08/10)
 * Multi-Task Deep Neural Networks for Natural Language Understanding
 	+ Presenter : 김성운
