@@ -31,26 +31,26 @@
 	+ Material : [Subword Regularization_이현경.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week03/Subword%20Regularization_%EC%9D%B4%ED%98%84%EA%B2%BD.pdf)
 ### Week04 (19/07/27)
 * Improving Language Understanding by Generative Pre-Training
-	+ Presenter : 
+	+ Presenter : 박지민
 	+ Paper : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 	+ Material : 
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 
-	+ Presenter :
+	+ Presenter : 김민수
 	+ Paper : https://arxiv.org/abs/1810.04805
 	+ Material :
 ### Week05 (19/08/10)
-* Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context 
-	+ Presenter : 
-	+ Paper :https://arxiv.org/abs/1901.02860
+* Multi-Task Deep Neural Networks for Natural Language Understanding
+	+ Presenter : 김성운
+	+ Paper : https://arxiv.org/abs/1901.11504
 	+ Material : 
 * Language Models are Unsupervised Multitask Learners 
-	+ Presenter :
+	+ Presenter : 김영
 	+ Paper :https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 	+ Material :
 ### Week06 (19/08/17)
-* Multi-Task Deep Neural Networks for Natural Language Understanding
+* Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context 
 	+ Presenter : 
-	+ Paper : https://arxiv.org/abs/1901.11504
+	+ Paper :https://arxiv.org/abs/1901.02860
 	+ Material : 
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding
 	+ Presenter :
