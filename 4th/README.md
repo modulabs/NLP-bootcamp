@@ -57,26 +57,33 @@
 	+ Paper : https://arxiv.org/abs/1906.08237
 	+ Material :
 ### Week07 (19/08/24)
-* BERT for Joint Intent Classification and Slot Filling
-	+ Presenter : 
-	+ Paper : https://arxiv.org/abs/1902.10909
+* torchtext + single sentence classification (bert)
+	+ Presenter : 김보섭
 	+ Material : 
-* BERT Baseline for the Natural Questions
-	+ Presenter :
-	+ Paper : https://arxiv.org/abs/1901.08634
-	+ Material :
 ### Week08 (19/08/31)
-* Fine-tune BERT for Extractive Summarization
-	+ Presenter : 
-	+ Paper : https://arxiv.org/abs/1903.10318
+* torchtext + pairwise text classification (bert)
+	+ Presenter : 김보섭
 	+ Material : 
-* BERT Rediscovers the Classical NLP Pipeline
-	+ Presenter :
-	+ Paper : https://arxiv.org/pdf/1905.05950.pdf
-	+ Material :
 ### Week09 (19/09/07)
-* TBD
+* Cross-lingual Language Model Pretraining
+	+ Presenter : 
+	+ Paper : https://arxiv.org/abs/1901.07291
+	+ Material : 
+* ERNIE: Enhanced Representation through Knowledge Integration
+	+ Presenter :
+	+ Paper : https://arxiv.org/abs/1904.09223
+	+ Material :
 ### Week10 (19/09/21)
-* TBD
+* MASS: Masked Sequence to Sequence Pre-training for Language Generation
+  - Presenter : 
+  - Paper : https://arxiv.org/abs/1905.02450
+  - Material : 
+* RoBERTa: A Robustly Optimized BERT Pretraining Approach
+  - Presenter :
+  - Paper : https://arxiv.org/abs/1907.11692
+  - Material :
 ### Week11 (19/09/28)
-* TBD
+* ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
+  - Presenter :
+  - Paper : https://arxiv.org/abs/1907.12412
+  - Material :
