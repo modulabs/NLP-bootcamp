@@ -66,12 +66,12 @@
 	+ Paper : https://arxiv.org/abs/1901.07291
 	+ Material : 
 * ERNIE: Enhanced Representation through Knowledge Integration
-	+ Presenter :
+	+ Presenter : 한지윤
 	+ Paper : https://arxiv.org/abs/1904.09223
 	+ Material :
 ### Week09 (19/09/07)
 * MASS: Masked Sequence to Sequence Pre-training for Language Generation
-  - Presenter : 
+  - Presenter : 박인호
   - Paper : https://arxiv.org/abs/1905.02450
   - Material : 
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach
