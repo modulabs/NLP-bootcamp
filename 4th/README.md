@@ -49,11 +49,11 @@
 	+ Material :
 ### Week06 (19/08/17)
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context 
-	+ Presenter : 
+	+ Presenter : 김재민, 신성진
 	+ Paper :https://arxiv.org/abs/1901.02860
 	+ Material : 
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding
-	+ Presenter :
+	+ Presenter : 조원호
 	+ Paper : https://arxiv.org/abs/1906.08237
 	+ Material :
 ### Week07 (19/08/24)
