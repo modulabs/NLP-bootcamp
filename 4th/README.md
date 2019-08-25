@@ -57,33 +57,31 @@
 	+ Paper : https://arxiv.org/abs/1906.08237
 	+ Material :
 ### Week07 (19/08/24)
-* torchtext + single sentence classification (bert)
+* torchtext, single sentence classification, pairwise text classification (bert)
 	+ Presenter : 김보섭
 	+ Material : 
 ### Week08 (19/08/31)
-* torchtext + pairwise text classification (bert)
-	+ Presenter : 김보섭
-	+ Material : 
-### Week09 (19/09/07)
 * Cross-lingual Language Model Pretraining
-	+ Presenter : 
+	+ Presenter : 백영상
 	+ Paper : https://arxiv.org/abs/1901.07291
 	+ Material : 
 * ERNIE: Enhanced Representation through Knowledge Integration
 	+ Presenter :
 	+ Paper : https://arxiv.org/abs/1904.09223
 	+ Material :
-### Week10 (19/09/21)
+### Week09 (19/09/07)
 * MASS: Masked Sequence to Sequence Pre-training for Language Generation
   - Presenter : 
   - Paper : https://arxiv.org/abs/1905.02450
   - Material : 
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach
-  - Presenter :
+  - Presenter : 유인제
   - Paper : https://arxiv.org/abs/1907.11692
   - Material :
-### Week11 (19/09/28)
+### Week10 (19/09/21)
 * ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
-  - Presenter :
+  - Presenter : 김태우
   - Paper : https://arxiv.org/abs/1907.12412
   - Material :
+### Week11 (19/09/28)
+* TBD
