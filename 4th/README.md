@@ -42,11 +42,11 @@
 * Multi-Task Deep Neural Networks for Natural Language Understanding
 	+ Presenter : 김성운
 	+ Paper : https://arxiv.org/abs/1901.11504
-	+ Material : 
+	+ Material : [Multi-Task Deep Neural Networks for Natural Language Understanding_김성운.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week05/Multi-Task%20Deep%20Neural%20Networks%20for%20Natural%20Language%20Understanding_%EA%B9%80%EC%84%B1%EC%9A%B4.pdf)
 * Language Models are Unsupervised Multitask Learners 
 	+ Presenter : 김영
 	+ Paper :https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
-	+ Material :
+	+ Material : [Language Models are Unsupervised Multitask Learners_김영.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week05/Language%20Models%20are%20Unsupervised%20Multitask%20Learners_%EA%B9%80%EC%98%81.pdf)
 ### Week06 (19/08/17)
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context 
 	+ Presenter : 김재민, 신성진
