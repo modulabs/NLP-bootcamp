@@ -51,7 +51,7 @@
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context 
 	+ Presenter : 김재민, 신성진
 	+ Paper :https://arxiv.org/abs/1901.02860
-	+ Material : 
+	+ Material : [Transformer-XL_Attentive Language Models Beyond a Fixed-Length Context_김재민_신성진.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week06/Transformer-XL_Attentive%20Language%20Models%20Beyond%20a%20Fixed-Length%20Context_%EA%B9%80%EC%9E%AC%EB%AF%BC_%EC%8B%A0%EC%84%B1%EC%A7%84.pdf)
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding
 	+ Presenter : 조원호
 	+ Paper : https://arxiv.org/abs/1906.08237
