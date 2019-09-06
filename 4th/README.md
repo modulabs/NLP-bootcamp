@@ -83,5 +83,14 @@
   - Presenter : 김태우
   - Paper : https://arxiv.org/abs/1907.12412
   - Material :
+* Unified Language Model Pre-training for Natural Language Understanding and Generation
+	- Presenter : 오휘건
+	- Paper : https://arxiv.org/abs/1905.03197
+	- Material : 
 ### Week11 (19/09/28)
-* TBD
+* Embedding Is All You Need (special lecture)
+	- Presenter : 이기창 (ratsgo)
+	- Material : 
+* Predicting Molecular Properties (special lecture)
+	- Presenter : 이영수
+	- Material : 
