@@ -68,7 +68,7 @@
 * ERNIE: Enhanced Representation through Knowledge Integration
 	+ Presenter : 한지윤
 	+ Paper : https://arxiv.org/abs/1904.09223
-	+ Material :
+	+ Material : [ERNIE_Enhanced Representation through Knowledge Integration_한지윤](https://www.notion.so/NLP-bootcamp_4th-2bcdaf2d0a8748b097120354073c32a3)
 ### Week09 (19/09/07)
 * MASS: Masked Sequence to Sequence Pre-training for Language Generation
   - Presenter : 박인호
