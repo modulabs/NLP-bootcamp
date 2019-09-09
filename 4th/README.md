@@ -53,13 +53,12 @@
 	+ Paper :https://arxiv.org/abs/1901.02860
 	+ Material : [Transformer-XL_Attentive Language Models Beyond a Fixed-Length Context_김재민_신성진.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week06/Transformer-XL_Attentive%20Language%20Models%20Beyond%20a%20Fixed-Length%20Context_%EA%B9%80%EC%9E%AC%EB%AF%BC_%EC%8B%A0%EC%84%B1%EC%A7%84.pdf)
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding
-	+ Presenter : 조원호
+	+ Presenter : 조원호, 남재신
 	+ Paper : https://arxiv.org/abs/1906.08237
-	+ Material :
+	+ Reference : [7주_2_XLNet_참고자료_PR-175_.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week06/7%EC%A3%BC_2_XLNet_%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C_PR-175_.pdf)
 ### Week07 (19/08/24)
 * torchtext, single sentence classification, pairwise text classification (bert)
 	+ Presenter : 김보섭
-	+ Material : 
 ### Week08 (19/08/31)
 * Cross-lingual Language Model Pretraining
 	+ Presenter : 백영상
@@ -73,11 +72,11 @@
 * MASS: Masked Sequence to Sequence Pre-training for Language Generation
   - Presenter : 박인호
   - Paper : https://arxiv.org/abs/1905.02450
-  - Material : 
+  - Material : [MASS: Masked Sequence to Sequence Pre-training for Language Generation_박인호.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week09/MASS:%20Masked%20Sequence%20to%20Sequence%20Pre-training%20for%20Language%20Generation_%EB%B0%95%EC%9D%B8%ED%98%B8.pdf)
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach
   - Presenter : 유인제
   - Paper : https://arxiv.org/abs/1907.11692
-  - Material :
+  - Material : [RoBERTa: A Robustly Optimized BERT Pretraining Approach_유인제](https://www.notion.so/RoBERTa-d4c1635a43004672b6d312136aebcfef)
 ### Week10 (19/09/21)
 * ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
   - Presenter : 김태우
