@@ -59,11 +59,11 @@
 ### Week07 (19/08/24)
 * torchtext, single sentence classification, pairwise text classification (bert)
 	+ Presenter : 김보섭
-### Week08 (19/08/31)
+### Week08 (19/08/31) 
 * Cross-lingual Language Model Pretraining
 	+ Presenter : 백영상
 	+ Paper : https://arxiv.org/abs/1901.07291
-	+ Material : 
+	+ Material : [Cross-lingual Language Model Pretraining_백영상](https://www.notion.so/XLM-415cbf5838944c979daabea22e1a99c8)
 * ERNIE: Enhanced Representation through Knowledge Integration
 	+ Presenter : 한지윤
 	+ Paper : https://arxiv.org/abs/1904.09223
