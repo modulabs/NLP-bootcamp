@@ -81,7 +81,7 @@
 * ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
   - Presenter : 김태우
   - Paper : https://arxiv.org/abs/1907.12412
-  - Material :
+  - Material : [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding_김태우.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/4th/week10/ERNIE%202.0:%20A%20Continual%20Pre-training%20Framework%20for%20Language%20Understanding_%EA%B9%80%ED%83%9C%EC%9A%B0.pdf)
 * Unified Language Model Pre-training for Natural Language Understanding and Generation
 	- Presenter : 오휘건
 	- Paper : https://arxiv.org/abs/1905.03197
