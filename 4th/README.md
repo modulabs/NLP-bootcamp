@@ -90,4 +90,4 @@
 * Embedding Is All You Need (special lecture)
 	- Presenter : 이기창 (ratsgo)
 * Predicting Molecular Properties (special lecture)
-	- Material : 
+	- Presenter : 이영수 
