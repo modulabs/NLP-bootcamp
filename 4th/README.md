@@ -89,7 +89,5 @@
 ### Week11 (19/09/28)
 * Embedding Is All You Need (special lecture)
 	- Presenter : 이기창 (ratsgo)
-	- Material : 
 * Predicting Molecular Properties (special lecture)
-	- Presenter : 이영수
 	- Material : 
