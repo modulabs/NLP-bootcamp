@@ -12,6 +12,6 @@
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/2nd
 
 ## 4th (19.07.06 ~ 19.09.28)
-+ participant : 
++ participant : 이영수, 김수원, 한지윤, 조원호, 남재신, 김영, 박지민, 이현경, 김민수, 김태우, 이동형, 유인제, 황인천, 오휘건, 박인호, 유원준, 손은비, 백영상, 김성운, 김재민, 신성진
 + faciliator : 김보섭
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/4th
