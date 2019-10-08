@@ -16,7 +16,7 @@
 + faciliator : 김보섭
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/4th
 
-## 4th (19.10.12 ~ 19.12.28)
+## 5th (19.10.12 ~ 19.12.28)
 + participant : 
 + faciliator : 김보섭
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/5th
