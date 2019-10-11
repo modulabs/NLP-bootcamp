@@ -97,7 +97,7 @@
   - Presenter : 
   - Paper : https://arxiv.org/abs/1909.10351
   - Material :
-* ALBERT: Distilling BERT for Natural Language Understanding
+* ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
   - Presenter : 
   - Paper : https://arxiv.org/abs/1909.11942
   - Material :
