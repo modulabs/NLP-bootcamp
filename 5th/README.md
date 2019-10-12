@@ -9,7 +9,7 @@
 * Orientation
 ### Week02 (19/10/19)
 * Attention Is All You Need
-	+ Presenter : 
+	+ Presenter : 이윤주  
 	+ Paper : https://arxiv.org/abs/1706.03762
 	+ Material : 
 * Universal Sentence Encoder
@@ -62,7 +62,7 @@
 	+ Paper : https://arxiv.org/abs/1907.11692
 	+ Material : 
 * ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
-	+ Presenter : 
+	+ Presenter : 이기창
 	+ Paper : https://arxiv.org/abs/1907.12412
 	+ Reference : 
 ### Week08 (19/11/30) 
@@ -76,7 +76,7 @@
 	+ Material : 
 ### Week09 (19/12/14)
 * Cross-lingual Language Model Pretraining
-  - Presenter : 
+  - Presenter : 한지윤
   - Paper : https://arxiv.org/abs/1901.07291
   - Material : 
 * MASS: Masked Sequence to Sequence Pre-training for Language Generation
