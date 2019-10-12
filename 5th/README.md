@@ -18,7 +18,7 @@
 	+ Material : 
 ### Week03 (19/10/26)
 * Self-Attention with Relative Postion Representations
-	+ Presenter : 
+	+ Presenter : 김성운
 	+ Paper : https://arxiv.org/abs/1803.02155
 	+ Material : 
 * Character-Level Language Modeling with Deeper Self-Attention
@@ -27,31 +27,31 @@
 	+ Material : 
 ### Week04 (19/11/02)
 * Generating Wikipedia by Summarizing Long Sequences
-	+ Presenter : 
+	+ Presenter : 임한동
 	+ Paper : https://arxiv.org/abs/1801.10198
 	+ Material :
 * Improving Language Understanding by Generative Pre-Training
-  + Presenter : 
+  + Presenter : 임정섭
   + Paper : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
   + Material : 
 * Language Models are Unsupervised Multitask Learners (optional)
   * Paper : https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 ### Week05 (19/11/09)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-	+ Presenter : 
+	+ Presenter : 박승일
 	+ Paper : https://arxiv.org/abs/1810.04805
 	+ Material : 
 * Multi-Task Deep Neural Networks for Natural Language Understanding
-	+ Presenter : 
+	+ Presenter : 백영상
 	+ Paper : https://arxiv.org/abs/1901.11504
 	+ Material : 
 ### Week06 (19/11/16)
 * SpanBERT: Improving Pre-training by Representing and Predicting Spans
-	+ Presenter : 
+	+ Presenter : 김정미
 	+ Paper : https://arxiv.org/abs/1907.10529
 	+ Material : 
 * ERNIE: Enhanced Representation through Knowledge Integration
-  + Presenter : 
+  + Presenter : 양승무
   + Paper : https://arxiv.org/abs/1904.09223
   + Material : 
 * Pre-Training with Whole Word Masking for Chinese BERT (optional)
@@ -67,11 +67,11 @@
 	+ Reference : 
 ### Week08 (19/11/30) 
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
-	+ Presenter : 
+	+ Presenter : 류지은
 	+ Paper : https://arxiv.org/abs/1901.02860
 	+ Material : 
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding
-	+ Presenter : 
+	+ Presenter : 박성찬
 	+ Paper : https://arxiv.org/abs/1906.08237
 	+ Material : 
 ### Week09 (19/12/14)
@@ -80,25 +80,25 @@
   - Paper : https://arxiv.org/abs/1901.07291
   - Material : 
 * MASS: Masked Sequence to Sequence Pre-training for Language Generation
-  - Presenter : 
+  - Presenter : 최병주
   - Paper : https://arxiv.org/abs/1905.02450
   - Material : 
 ### Week10 (19/12/21)
 * Unified Language Model Pre-training for Natural Language Understanding and Generation
-  - Presenter : 
+  - Presenter : 윤주성
   - Paper : https://arxiv.org/abs/1905.03197
   - Material :
 * CTRL: A Conditional Transformer Language Model for Controllable Generation
-	- Presenter : 
+	- Presenter : 조원호
 	- Paper : https://arxiv.org/abs/1909.05858
 	- Material : 
 ### Week11 (19/12/28)
 * TinyBERT: Distilling BERT for Natural Language Understanding
-  - Presenter : 
+  - Presenter : 허훈
   - Paper : https://arxiv.org/abs/1909.10351
   - Material :
 * ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-  - Presenter : 
+  - Presenter : 김동완
   - Paper : https://arxiv.org/abs/1909.11942
   - Material :
 * DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter (optional)
