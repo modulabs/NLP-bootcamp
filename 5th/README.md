@@ -58,7 +58,7 @@
   + Paper : https://arxiv.org/abs/1906.08101
 ### Week07 (19/11/23)
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach
-	+ Presenter : 
+	+ Presenter : 강성현
 	+ Paper : https://arxiv.org/abs/1907.11692
 	+ Material : 
 * ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
