@@ -13,7 +13,7 @@
 	+ Paper : https://arxiv.org/abs/1706.03762
 	+ Material : 
 * Universal Sentence Encoder
-	+ Presenter : 
+	+ Presenter : 염혜원
 	+ Paper : https://arxiv.org/abs/1803.11175
 	+ Material : 
 ### Week03 (19/10/26)
