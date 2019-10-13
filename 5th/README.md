@@ -22,7 +22,7 @@
 	+ Paper : https://arxiv.org/abs/1803.02155
 	+ Material : 
 * Character-Level Language Modeling with Deeper Self-Attention
-	+ Presenter : 
+	+ Presenter : 양홍민
 	+ Paper : https://arxiv.org/abs/1808.04444
 	+ Material : 
 ### Week04 (19/11/02)
