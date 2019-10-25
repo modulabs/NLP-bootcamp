@@ -11,11 +11,11 @@
 * Attention Is All You Need
 	+ Presenter : 이윤주  
 	+ Paper : https://arxiv.org/abs/1706.03762
-	+ Material : 
+	+ Material : [Attention Is All You Need_이윤주.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week02/Attention%20Is%20All%20You%20Need_%EC%9D%B4%EC%9C%A4%EC%A3%BC.pdf)
 * Universal Sentence Encoder
 	+ Presenter : 염혜원
 	+ Paper : https://arxiv.org/abs/1803.11175
-	+ Material : 
+	+ Material : [Universal Sentence Encoder_염혜원.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week02/Universal%20Sentence%20Encoder_%EC%97%BC%ED%98%9C%EC%9B%90.pdf)
 ### Week03 (19/10/26)
 * Self-Attention with Relative Postion Representations
 	+ Presenter : 김성운
