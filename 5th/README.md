@@ -20,11 +20,11 @@
 * Self-Attention with Relative Postion Representations
 	+ Presenter : 김성운
 	+ Paper : https://arxiv.org/abs/1803.02155
-	+ Material : 
+	+ Material : [Self-Attention with Relative Position Representation_김성운.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week03/Self-Attention%20with%20Relative%20Position%20Representation_%EA%B9%80%EC%84%B1%EC%9A%B4.pdf)
 * Character-Level Language Modeling with Deeper Self-Attention
 	+ Presenter : 양홍민
 	+ Paper : https://arxiv.org/abs/1808.04444
-	+ Material : 
+	+ Material : [Character-Level Language Modeling with Deeper Self-Attention_양홍민.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week03/Character-Level%20Language%20Modeling%20with%20Deeper%20Self-Attention_%EC%96%91%ED%99%8D%EB%AF%BC.pdf)
 ### Week04 (19/11/02)
 * Generating Wikipedia by Summarizing Long Sequences
 	+ Presenter : 임한동
