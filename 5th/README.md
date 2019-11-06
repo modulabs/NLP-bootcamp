@@ -29,11 +29,11 @@
 * Generating Wikipedia by Summarizing Long Sequences
 	+ Presenter : 임한동
 	+ Paper : https://arxiv.org/abs/1801.10198
-	+ Material :
+	+ Material :[Generating Wikipedia by Summarizing Long Sequences_임한동.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week04/Generating%20Wikipedia%20by%20Summarizing%20Long%20Sequences_%EC%9E%84%ED%95%9C%EB%8F%99.pdf)
 * Improving Language Understanding by Generative Pre-Training
   + Presenter : 임정섭
   + Paper : https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
-  + Material : 
+  + Material : [Improving Language Understanding by Generative Pre-Training_임정섭.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week04/Improving%20Language%20Understanding%20by%20Generative%20Pre-Training_%EC%9E%84%EC%A0%95%EC%84%AD.pdf)
 * Language Models are Unsupervised Multitask Learners (optional)
   * Paper : https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 ### Week05 (19/11/09)
