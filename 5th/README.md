@@ -40,11 +40,11 @@
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 	+ Presenter : 박승일
 	+ Paper : https://arxiv.org/abs/1810.04805
-	+ Material : 
+	+ Material : [BERT_ Pre-training of Deep Bidirectional Transformers for Language Understanding_박승일.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week05/BERT_%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding_%EB%B0%95%EC%8A%B9%EC%9D%BC.pdf)
 * Multi-Task Deep Neural Networks for Natural Language Understanding
 	+ Presenter : 백영상
 	+ Paper : https://arxiv.org/abs/1901.11504
-	+ Material : 
+	+ Material : [Multi-Task Deep Neural Networks for Natural Language Understanding_백영상.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week05/Multi-Task%20Deep%20Neural%20Networks%20for%20Natural%20Language%20Understanding_%EB%B0%B1%EC%98%81%EC%83%81.pdf)
 ### Week06 (19/11/16)
 * SpanBERT: Improving Pre-training by Representing and Predicting Spans
 	+ Presenter : 김정미
