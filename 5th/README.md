@@ -49,11 +49,11 @@
 * SpanBERT: Improving Pre-training by Representing and Predicting Spans
 	+ Presenter : 김정미
 	+ Paper : https://arxiv.org/abs/1907.10529
-	+ Material : 
+	+ Material : [SpanBERT: Improving Pre-training by Representing and Predicting Spans_김정미.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week06/SpanBERT:%20Improving%20Pre-training%20by%20Representing%20and%20Predicting%20Spans_%EA%B9%80%EC%A0%95%EB%AF%B8.pdf)
 * ERNIE: Enhanced Representation through Knowledge Integration
   + Presenter : 양승무
   + Paper : https://arxiv.org/abs/1904.09223
-  + Material : 
+  + Material : [ERNIE: Enhanced Representation through Knowledge Integration_양승무.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week06/ERNIE:%20Enhanced%20Representation%20through%20Knowledge%20Integration_%EC%96%91%EC%8A%B9%EB%AC%B4.pdf)
 * Pre-Training with Whole Word Masking for Chinese BERT (optional)
   + Paper : https://arxiv.org/abs/1906.08101
 ### Week07 (19/11/23)
