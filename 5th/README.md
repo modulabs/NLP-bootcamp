@@ -60,11 +60,11 @@
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach
 	+ Presenter : 강성현
 	+ Paper : https://arxiv.org/abs/1907.11692
-	+ Material : 
+	+ Material : [RoBERTa: A Robustly Optimized BERT Pretraining Approach_강성현.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week07/RoBERTa:%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach_%EA%B0%95%EC%84%B1%ED%98%84.pdf)
 * ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
 	+ Presenter : 이기창
 	+ Paper : https://arxiv.org/abs/1907.12412
-	+ Reference : 
+	+ Reference : [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding_이기창.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week07/ERNIE%202.0:%20A%20Continual%20Pre-training%20Framework%20for%20Language%20Understanding_%EC%9D%B4%EA%B8%B0%EC%B0%BD.pdf)
 ### Week08 (19/11/30) 
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 	+ Presenter : 류지은
