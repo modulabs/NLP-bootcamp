@@ -69,11 +69,11 @@
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 	+ Presenter : 류지은
 	+ Paper : https://arxiv.org/abs/1901.02860
-	+ Material : 
+	+ Material : [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context_류지은.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week08/Transformer-XL:%20Attentive%20Language%20Models%20Beyond%20a%20Fixed-Length%20Context_%EB%A5%98%EC%A7%80%EC%9D%80.pdf)
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding
-	+ Presenter : 박성찬
-	+ Paper : https://arxiv.org/abs/1906.08237
-	+ Material : 
+  + Presenter : 박성찬
+  + Paper : https://arxiv.org/abs/1906.08237
+  + Material : [XLNet: Generalized Autoregressive Pretraining for Language Understanding_박성찬.pdf ](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week08/XLNet:%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding_%EB%B0%95%EC%84%B1%EC%B0%AC.pdf)
 ### Week09 (19/12/14)
 * Cross-lingual Language Model Pretraining
   - Presenter : 한지윤
