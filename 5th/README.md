@@ -78,11 +78,11 @@
 * Cross-lingual Language Model Pretraining
   - Presenter : 한지윤
   - Paper : https://arxiv.org/abs/1901.07291
-  - Material : 
+  - Material : [Cross-lingual Language Model Pretraining_한지윤.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week09/Cross-lingual%20Language%20Model%20Pretraining_%ED%95%9C%EC%A7%80%EC%9C%A4.pdf)
 * MASS: Masked Sequence to Sequence Pre-training for Language Generation
   - Presenter : 최병주
   - Paper : https://arxiv.org/abs/1905.02450
-  - Material : 
+  - Material : [MASS: Masked Sequence to Sequence Pre-training for Language Generation_최병주.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week09/MASS:%20Masked%20Sequence%20to%20Sequence%20Pre-training%20for%20Language%20Generation_%EC%B5%9C%EB%B3%91%EC%A3%BC.pdf)
 ### Week10 (19/12/21)
 * Unified Language Model Pre-training for Natural Language Understanding and Generation
   - Presenter : 윤주성
