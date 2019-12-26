@@ -87,11 +87,11 @@
 * Unified Language Model Pre-training for Natural Language Understanding and Generation
   - Presenter : 윤주성
   - Paper : https://arxiv.org/abs/1905.03197
-  - Material :
+  - Material : [Unified Language Model Pre-training for Natural Language Understanding and Generation_윤주성.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week10/Unified%20Language%20Model%20Pre-training%20for%20Natural%20Language%20Understanding%20and%20Generation_%EC%9C%A4%EC%A3%BC%EC%84%B1.pdf)
 * CTRL: A Conditional Transformer Language Model for Controllable Generation
 	- Presenter : 조원호
 	- Paper : https://arxiv.org/abs/1909.05858
-	- Material : 
+	- Material : [CTRL: A Conditional Transformer Language Model for Controllable Generation_조원호.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week10/CTRL:%20A%20Conditional%20Transformer%20Language%20Model%20for%20Controllable%20Generation_%EC%A1%B0%EC%9B%90%ED%98%B8.pdf)
 ### Week11 (19/12/28)
 * TinyBERT: Distilling BERT for Natural Language Understanding
   - Presenter : 허훈
