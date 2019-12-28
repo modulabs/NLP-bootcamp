@@ -96,10 +96,10 @@
 * TinyBERT: Distilling BERT for Natural Language Understanding
   - Presenter : 허훈
   - Paper : https://arxiv.org/abs/1909.10351
-  - Material :
+  - Material : [TinyBERT_Distilling BERT for Natural Language Understanding_허훈.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week11/TinyBERT_Distilling%20BERT%20for%20Natural%20Language%20Understanding_%ED%97%88%ED%9B%88.pdf)
 * ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
   - Presenter : 김동완
   - Paper : https://arxiv.org/abs/1909.11942
-  - Material :
+  - Material : [ALBERT_A Lite BERT for Self-supervised Learning of Language Representations_김동완.pdf](https://github.com/modulabs/NLP-bootcamp/blob/master/5th/week11/ALBERT_A%20Lite%20BERT%20for%20Self-supervised%20Learning%20of%20Language%20Representations_%EA%B9%80%EB%8F%99%EC%99%84.pdf)
 * DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter (optional)
   - Paper : https://arxiv.org/abs/1910.01108
