@@ -17,6 +17,6 @@
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/4th
 
 ## 5th (19.10.12 ~ 19.12.28)
-+ participant : 
++ participant : 윤주성, 박승일, 이윤주, 김정미, 양홍민, 백영상, 김성운, 최병주, 양승무, 허훈, 박성찬, 임한동, 임정섭, 김동완, 류지은, 조원호, 한지윤, 염혜원, 강성현, 이기창, 이영수
 + faciliator : 김보섭
 + link : https://github.com/modulabs/NLP-bootcamp/tree/master/5th
